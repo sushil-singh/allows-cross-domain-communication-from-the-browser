@@ -57,6 +57,9 @@ echo '{"name":"'.$_POST[name].'","status":true}';
   </customHeaders>
 </httpProtocol>
 
+Java (Spring)
+--------------
+https://spring.io/guides/gs/rest-service-cors/
 
 ref:-
 http://www.html5rocks.com/en/tutorials/cors/
